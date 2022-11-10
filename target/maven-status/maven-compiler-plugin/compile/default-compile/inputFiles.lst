@@ -1,5 +1,4 @@
-/workspace/Prova_LabIV/src/main/java/com/example/medida/service/MedidaService.java
-/workspace/Prova_LabIV/src/main/java/com/example/medida/DemoApplication.java
-/workspace/Prova_LabIV/src/main/java/com/example/medida/controller/MedidaController.java
-/workspace/Prova_LabIV/src/main/java/com/example/medida/entity/Medida.java
-/workspace/Prova_LabIV/src/main/java/com/example/medida/repository/MedidaRepository.java
+/workspace/Prova_LabIV/src/main/java/com/example/trabalho/controller/TrabalhoController.java
+/workspace/Prova_LabIV/src/main/java/com/example/trabalho/DemoApplication.java
+/workspace/Prova_LabIV/src/main/java/com/example/trabalho/repository/TrabalhoRepository.java
+/workspace/Prova_LabIV/src/main/java/com/example/trabalho/entity/Trabalho.java

@@ -1,4 +1,4 @@
-package com.example.medida;
+package com.example.trabalho;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
